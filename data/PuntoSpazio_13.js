@@ -1,0 +1,1 @@
+var json_PuntoSpazio_13 = {"type":"FeatureCollection","name":"PuntoSpazio_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"latitude":19.42483,"longitude":-99.15661,"label":"Spazio"},"geometry":{"type":"Point","coordinates":[-99.156608606521303,19.424827028163659]}}]}
